@@ -1,0 +1,839 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs26 \cf0 \{\
+    "canIPlayResponse": \{\
+        "contentCheck": \{\
+            "access": "preview",\
+            "epgId": "6126faaf8208a8df5f19f80f",\
+            "epgModifiedTimestamp": 1737470920320,\
+            "live": true,\
+            "offset": 0,\
+            "previewStartTime": 1737485181774,\
+            "previewTimeRemainingSeconds": null,\
+            "userHasChannelGateEntitlement": false,\
+            "video": \{\
+                "_id": "678fb3c8c668aba355473fae",\
+                "metadata": \{\
+                    "livestreamHostProfileIcon": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/6344483c97bf7400a8a6ecc8.png",\
+                    "content": null\
+                \},\
+                "durationSeconds": 0,\
+                "liveBroadcastId": "678fb3c8c668aba355473fad",\
+                "player": "livestream",\
+                "sessionId": "678faddf8b29721f485407a5",\
+                "siteId": "5c09513f58dfae005af67a20",\
+                "title": "2025-01-21 06:48 PST PBA Tour CH 1",\
+                "type": "livestream",\
+                "url": "https://stream.mux.com/c9NGd2tVNlgrjCULLKUu500L7H4PbBPgOvt51KNNuUKs.m3u8",\
+                "creator": "62a0eb873a48c300a7073daf",\
+                "owner": "62a0eb873a48c300a7073daf",\
+                "created": 1737470920218,\
+                "modified": 1737470920218,\
+                "tags": []\
+            \}\
+        \},\
+        "deviceCheck": null\
+    \},\
+    "channel": \{\
+        "_id": "6126faaf8208a8df5f19f80f",\
+        "collection": "pages",\
+        "created": 1629944755700,\
+        "data": \{\
+            "artwork": \{\
+                "header": \{\
+                    "logo": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/63b13dff84e4db00a755da55.png",\
+                    "logo_link": "/"\
+                \},\
+                "video": \{\
+                    "background": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/6006f8d564b51900a6587508.png",\
+                    "kind": "images"\
+                \}\
+            \},\
+            "channel_select_active_image_url": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/676597aa7ef32781ee99b549.jpg",\
+            "content": \{\
+                "offline": \{\
+                    "image": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/651f1b16eb887800a78dffff.jpg",\
+                    "kind": "video",\
+                    "mode": "image"\
+                \}\
+            \},\
+            "gate": \{\
+                "active": true,\
+                "gate": \{\
+                    "background": \{\
+                        "color": "#000000",\
+                        "desktop_image": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/66e85b973cc5b928c6cb2e3f.jpg",\
+                        "mobile_image": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/66e85b9f3cc5b928c6cb2e40.jpg",\
+                        "opacity": 1,\
+                        "type": "image",\
+                        "use_gradient_mask": false\
+                    \},\
+                    "hidden_entitlements": [\
+                        "tnba-annual-subscription",\
+                        "uba-annual-subscription",\
+                        "bpaa-member",\
+                        "vip-recurring-annual-subscription",\
+                        "usbc-comp",\
+                        "limited-time-special-for-annual-subscription",\
+                        "annual-subscribers-2020",\
+                        "itrc-membership-comp",\
+                        "usbc-vip-recurring-annual-subscription",\
+                        "2022-pwba-member-comp-03-31-23",\
+                        "tnba-rhodman-delaware",\
+                        "recurring-annual-subscription",\
+                        "usbc-coach-member",\
+                        "annual-subscription-22ltd",\
+                        "annual-subscription-23uba",\
+                        "annual-subscription23tnba",\
+                        "pba-players-championship",\
+                        "24-wsob-scorpion-champ",\
+                        "24-pba-wsob-all-events",\
+                        "24-wsob-shark-champ"\
+                    ],\
+                    "logo_link": "/",\
+                    "logo_url": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/63b13dff84e4db00a755da55.png",\
+                    "navigation": \{\
+                        "state": "on"\
+                    \},\
+                    "subscriptions": [\
+                        \{\
+                            "name": "BPAA Member",\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "value": 0\
+                                \}\
+                            ],\
+                            "sku": "bpaa-member",\
+                            "type": "ticket",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "name": "Annual Subscribers - 2020",\
+                            "preview_duration_seconds": 300,\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "value": 0\
+                                \}\
+                            ],\
+                            "sku": "annual-subscribers-2020",\
+                            "type": "subscription",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "name": "ITRC Membership Comp",\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "value": 0\
+                                \}\
+                            ],\
+                            "sku": "itrc-membership-comp",\
+                            "type": "ticket",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "button_color": "#037336",\
+                            "name": "2022 PWBA Member Comp (03/31/23)",\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "value": 0\
+                                \}\
+                            ],\
+                            "sku": "2022-pwba-member-comp-03-31-23",\
+                            "type": "ticket",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "5f7c9adc9f509900a5fec8c7",\
+                            "button_color": "#091aa4",\
+                            "created": 1602001628855,\
+                            "description": "The monthly price is $15.95, plus a 15% transaction fee and applicable taxes, which will be added before you purchase the subscription.",\
+                            "modified": 1704389668580,\
+                            "name": "Recurring Monthly Subscription",\
+                            "payouts": [\
+                                "manual",\
+                                "6363757fa9c6d5002fcc51ec",\
+                                "63b3e093fbb8e4002f255a5c",\
+                                "63dcbf11950d6f002fb2bbdd",\
+                                "6401a939d29c7a002e830c6f",\
+                                "642a87a83611cb002f287ce4",\
+                                "645214b10dcd48002ee1ab12",\
+                                "64b0c352bf181f001ebd6197",\
+                                "6544a8acc61d84002fde3393",\
+                                "656c35b50c100a002f81d9c4",\
+                                "6595142d64aca2003075f6d6"\
+                            ],\
+                            "preview_duration_seconds": 300,\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1OTsO6KlS19qVW5lNFADWbzK",\
+                                    "value": 15.95\
+                                \}\
+                            ],\
+                            "recurrence": "month",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "recurring-monthly-subscription",\
+                            "stripe_product_id": "prod_PITKjuQdAaWJCY",\
+                            "subscription_provider": "maestro",\
+                            "visible": true\
+                        \},\
+                        \{\
+                            "_id": "638d48203a872a002faa636e",\
+                            "created": 1670203424653,\
+                            "description": "The recurring annual price is $119.95, plus a 15% transaction fee and applicable taxes, which will be added before you purchase the subscription.",\
+                            "modified": 1723233557706,\
+                            "name": "Annual Subscription 23",\
+                            "payouts": [\
+                                "63dcc1a5950d6f002fb2bbe5",\
+                                "6401ac39d29c7a002e830c77",\
+                                "642a8ac43611cb002f287cee",\
+                                "64521a8b0dcd48002ee1ab1b",\
+                                "64b0c6fcbf181f001ebd619f",\
+                                "64b0d695987984001e0d46b0",\
+                                "64cb61d3a8548c002f98bc03",\
+                                "65bdf6597494e8002e6468d8",\
+                                "65e4346ebe44b2002ff5c81d",\
+                                "6634a0cb459c068ebf1ae1cb",\
+                                "665d7cc48d6768b84b364eb2",\
+                                "66850a6eb5c0803207f0d8d9",\
+                                "66ade7ba20c558b3da88da36"\
+                            ],\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1MBTPIKlS19qVW5le9XzVh1c",\
+                                    "value": 119.95\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "annual-subscription-23",\
+                            "stripe_product_id": "prod_MvK3731mhs29J9",\
+                            "subscription_provider": "maestro",\
+                            "visible": true\
+                        \},\
+                        \{\
+                            "_id": "5fa08553438d9700a5b631d9",\
+                            "created": 1604355411275,\
+                            "currency": "usd",\
+                            "default_price": 0,\
+                            "modified": 1604355411275,\
+                            "name": "USBC Comp",\
+                            "payouts": [\
+                                "manual"\
+                            ],\
+                            "preview_duration_seconds": 300,\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "value": 0\
+                                \}\
+                            ],\
+                            "recurrence": "once",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "usbc-comp",\
+                            "subscription_provider": "maestro",\
+                            "type": "ticket",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "63b5ecab26c7a6002fb8634f",\
+                            "created": 1672866987571,\
+                            "default_price": 5,\
+                            "description": "This subscription is for USBC Coach+ members. You will receive a complimentary annual subscription as part of your membership benefits. ",\
+                            "event_date": 4102466400000,\
+                            "modified": 1672866987571,\
+                            "name": "USBC Coach+ Member",\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "value": 5\
+                                \}\
+                            ],\
+                            "recurrence": "once",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "usbc-coach-member",\
+                            "subscription_provider": "maestro",\
+                            "type": "ticket",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "5f9ad1ff6aac7a00a57e6fbb",\
+                            "created": 1603981823358,\
+                            "currency": "usd",\
+                            "default_price": 99.95,\
+                            "modified": 1672732826529,\
+                            "name": "Limited-Time Special for Annual Subscription",\
+                            "payouts": [\
+                                "manual",\
+                                "63637585a9c6d5002fcc51ed",\
+                                "63b3e09afbb8e4002f255a5d"\
+                            ],\
+                            "preview_duration_seconds": 300,\
+                            "price": 49.95,\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1MCqT4KlS19qVW5lDAQQnnIP",\
+                                    "value": 99.95\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "limited-time-special-for-annual-subscription",\
+                            "stripe_plan_id": "plan_IIFmcZdCO13IHV",\
+                            "subscription_provider": "maestro",\
+                            "type": "subscription",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "6069fbdae6a3f400a62d3952",\
+                            "created": 1617558490475,\
+                            "description": "",\
+                            "modified": 1716398392522,\
+                            "name": "VIP Recurring Annual Subscription",\
+                            "payouts": [\
+                                "manual",\
+                                "6401a951cb7241002fdf3fdd",\
+                                "642a87c63611cb002f287ce9",\
+                                "645214d00dcd48002ee1ab16",\
+                                "64b0c37abf181f001ebd619b",\
+                                "64b0d327987984001e0d46ae",\
+                                "64cb5ed7a8548c002f98bc00",\
+                                "65e42e9cbe44b2002ff5c817",\
+                                "66349a16459c068ebf1ae1c6"\
+                            ],\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1MCrZ1KlS19qVW5l4gZuCYi8",\
+                                    "value": 99.95\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "vip-recurring-annual-subscription",\
+                            "stripe_product_id": "prod_Q9c3l0tijtmciP",\
+                            "subscription_provider": "maestro",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "638e1aaef4edb8002fbdc70b",\
+                            "created": 1670257326592,\
+                            "description": "This subscription is for UBA members. You are receiving a 15% discount off the $119.95 annual subscription price. ",\
+                            "modified": 1716407115817,\
+                            "name": "Annual Subscription 23UBA",\
+                            "payouts": [\
+                                "63dcc1a9950d6f002fb2bbe6",\
+                                "6401ac3dd29c7a002e830c78",\
+                                "642a8ac93611cb002f287cef",\
+                                "64b0c704bf181f001ebd61a0",\
+                                "65e4347cbe44b2002ff5c81e"\
+                            ],\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1MBhQgKlS19qVW5lNXmHIbTe",\
+                                    "value": 101.96\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "annual-subscription-23uba",\
+                            "stripe_product_id": "prod_MvYXaDoraqyZB3",\
+                            "subscription_provider": "maestro",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "60b78c8ca6560c002efe9d7e",\
+                            "created": 1622641804252,\
+                            "currency": "usd",\
+                            "default_price": 84.95,\
+                            "modified": 1670535448275,\
+                            "name": "UBA Annual Subscription",\
+                            "payouts": [\
+                                "manual"\
+                            ],\
+                            "price": 67.95,\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1MCraCKlS19qVW5lzsutsUfK",\
+                                    "value": 84.95\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "uba-annual-subscription",\
+                            "stripe_plan_id": "plan_Jb6feOuetqUjz7",\
+                            "subscription_provider": "maestro",\
+                            "type": "subscription",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "638e1ae81421cb002f3c622d",\
+                            "created": 1670257384914,\
+                            "description": "This subscription is for TNBA members. You are receiving a 15% discount off the $119.95 annual subscription price. ",\
+                            "modified": 1717266193795,\
+                            "name": "Annual Subscription23TNBA",\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1MBhRcKlS19qVW5leJRAj49E",\
+                                    "value": 101.96\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "annual-subscription23tnba",\
+                            "stripe_product_id": "prod_MvYYafVivvhPFa",\
+                            "subscription_provider": "maestro",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "60d5e2d0f0e3a6002de38eae",\
+                            "created": 1624629968061,\
+                            "currency": "usd",\
+                            "default_price": 84.95,\
+                            "modified": 1672733030381,\
+                            "name": "TNBA Annual Subscription ",\
+                            "payouts": [\
+                                "manual",\
+                                "63b3e166fbb8e4002f255a60"\
+                            ],\
+                            "price": 67.95,\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1MCrbvKlS19qVW5lwbKlr62k",\
+                                    "value": 84.95\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "tnba-annual-subscription",\
+                            "stripe_plan_id": "plan_Jjj7TGxlHu9Pp4",\
+                            "subscription_provider": "maestro",\
+                            "type": "subscription",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "638d47b05620f1002fab71b0",\
+                            "created": 1670203312864,\
+                            "description": "This is a recurring annual subscription sold for a limited time from Dec. 5, 2022 - Dec. 31, 2022, for $99.95. The subscription will renew for users at $119.95, plus transaction fees. ",\
+                            "modified": 1716398832253,\
+                            "name": "Annual Subscription 22LTD",\
+                            "payouts": [\
+                                "63b3e34efbb8e4002f255a64",\
+                                "63dcc1a2950d6f002fb2bbe4",\
+                                "6401ac37d29c7a002e830c76",\
+                                "642a8ac13611cb002f287ced",\
+                                "64521a870dcd48002ee1ab1a",\
+                                "64b0c6f6bf181f001ebd619e",\
+                                "6595180c64aca2003075f6db",\
+                                "65bdf6527494e8002e6468d7",\
+                                "65e43466be44b2002ff5c81c",\
+                                "660d14622edd57002f33ae65"\
+                            ],\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1Mb3QSKlS19qVW5lrgzQmSrK",\
+                                    "value": 119.95\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "annual-subscription-22ltd",\
+                            "stripe_product_id": "prod_MvK1xwKy4T2j0Q",\
+                            "subscription_provider": "maestro",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "5fee59c0f9e58b00a550a3e2",\
+                            "button_color": "#091aa4",\
+                            "created": 1609456064129,\
+                            "description": "",\
+                            "modified": 1716398854122,\
+                            "name": "Recurring Annual Subscription",\
+                            "payouts": [\
+                                "manual",\
+                                "6363758da9c6d5002fcc51ee",\
+                                "63b3e0a4fbb8e4002f255a5e",\
+                                "63dcbf22950d6f002fb2bbe0",\
+                                "6401a94ad29c7a002e830c72",\
+                                "642a87bd3611cb002f287ce7",\
+                                "645214c90dcd48002ee1ab15",\
+                                "64b0c371bf181f001ebd619a",\
+                                "65bdf2d57494e8002e6468d1",\
+                                "65e42e7dbe44b2002ff5c815",\
+                                "660d0d222edd57002f33ae5f",\
+                                "663499fc459c068ebf1ae1c4"\
+                            ],\
+                            "preview_duration_seconds": 300,\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1MCqwtKlS19qVW5lkcHr8MRf",\
+                                    "value": 99.95\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "recurring-annual-subscription",\
+                            "stripe_product_id": "prod_Q9cB9xxIHRZ78r",\
+                            "subscription_provider": "maestro",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "63b5ecab26c7a6002fb8634f",\
+                            "created": 1672866987571,\
+                            "default_price": 5,\
+                            "description": "This subscription is for USBC Coach+ members. You will receive a complimentary annual subscription as part of your membership benefits. ",\
+                            "event_date": 4102466400000,\
+                            "modified": 1672866987571,\
+                            "name": "USBC Coach+ Member",\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "value": 5\
+                                \}\
+                            ],\
+                            "recurrence": "once",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "usbc-coach-member",\
+                            "subscription_provider": "maestro",\
+                            "type": "ticket",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "61ae1fe4301bfa002f073f29",\
+                            "button_color": "#091aa4",\
+                            "created": 1638801380165,\
+                            "description": "",\
+                            "modified": 1716398373066,\
+                            "name": "USBC VIP Recurring Annual Subscription",\
+                            "payouts": [\
+                                "manual",\
+                                "638b04156e1775002f829a25",\
+                                "63b3e27ffbb8e4002f255a63",\
+                                "63dcc0e4950d6f002fb2bbe3",\
+                                "6401ab51d29c7a002e830c75",\
+                                "642a89cb3611cb002f287cec",\
+                                "645217000dcd48002ee1ab19",\
+                                "64b0c5acbf181f001ebd619d",\
+                                "65bdf51b7494e8002e6468d6",\
+                                "65e43273be44b2002ff5c81b",\
+                                "660d11f72edd57002f33ae64",\
+                                "66349e99459c068ebf1ae1ca"\
+                            ],\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "stripe_price_id": "price_1Mtu91KlS19qVW5lL2aG5CDu",\
+                                    "value": 99.95\
+                                \}\
+                            ],\
+                            "recurrence": "year",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "usbc-vip-recurring-annual-subscription",\
+                            "stripe_product_id": "prod_NfEcKf8xVYzTRI",\
+                            "subscription_provider": "maestro",\
+                            "visible": false\
+                        \},\
+                        \{\
+                            "_id": "678047940174bfda61997f70",\
+                            "creator": "62a0eb873a48c300a7073daf",\
+                            "owner": "62a0eb873a48c300a7073daf",\
+                            "description": "Watch multi-channel coverage for the 2025 PBA Delaware Classic taking place January 20-23. Ticketed users can only watch live. To access archived footage you must be a monthly or annual subscriber. TV Show not included, will air Jan. 25th on FS1",\
+                            "event_date": 1737612000000,\
+                            "name": "2025 PBA Delaware Classic",\
+                            "payouts": [],\
+                            "prices": [\
+                                \{\
+                                    "currency": "usd",\
+                                    "default": true,\
+                                    "value": 19.95\
+                                \}\
+                            ],\
+                            "recurrence": "once",\
+                            "site_id": "5c09513f58dfae005af67a20",\
+                            "sku": "2025-pba-delaware-classic",\
+                            "subscription_provider": "maestro",\
+                            "created": 1736460180225,\
+                            "modified": 1736460180225,\
+                            "tags": [],\
+                            "type": "ticket",\
+                            "default_price": 19.95,\
+                            "active_on_gate": false,\
+                            "visible": true\
+                        \}\
+                    ],\
+                    "subtitle": "Subtitle of the gate goes here. Tell your audience what to expect!\\nThe better you can tease your audience. the higher the likelihood that they will get through the gate.",\
+                    "subtitle_raw_data": "<p>BowlTV.com is the multi-channel livestreaming platform of the United States Bowling Congress and will be the exclusive home of the Professional Bowlers Association and Professional Women&rsquo;s Bowling Association in 2023. Watch thousands of hours of competition for all ages.</p>",\
+                    "subtitle_raw_data_v_2": "\{\\"root\\":\{\\"children\\":[\{\\"children\\":[\{\\"detail\\":0,\\"format\\":0,\\"mode\\":\\"normal\\",\\"style\\":\\"\\",\\"text\\":\\".\\",\\"type\\":\\"extended-text\\",\\"version\\":1\},\{\\"detail\\":0,\\"format\\":0,\\"mode\\":\\"normal\\",\\"style\\":\\"color: #ffffff;\\",\\"text\\":\\"BowlTV.com is the multi-channel livestreaming platform of the United States Bowling Congress and will be the exclusive home of the Professional Bowlers Association and Professional Women\'92s Bowling Association in 2025. Watch thousands of hours of competition for all ages\\",\\"type\\":\\"extended-text\\",\\"version\\":1\}],\\"direction\\":null,\\"format\\":\\"left\\",\\"indent\\":0,\\"type\\":\\"paragraph\\",\\"version\\":1\}],\\"format\\":\\"\\",\\"type\\":\\"root\\",\\"version\\":1\}\}",\
+                    "title": "Subscribe today to BowlTV!",\
+                    "title_raw_data": "<p><span style=\\"color: rgb(255,242,242); font-size: 30px;\\">Welcome to the PBA Tour on BowlTV!</span></p>",\
+                    "title_raw_data_v_2": "\{\\"root\\":\{\\"type\\":\\"root\\",\\"children\\":[\{\\"type\\":\\"paragraph\\",\\"indent\\":0,\\"direction\\":null,\\"format\\":\\"left\\",\\"children\\":[\{\\"type\\":\\"extended-text\\",\\"text\\":\\"Welcome to the PBA Tour on BowlTV!\\",\\"detail\\":0,\\"format\\":0,\\"mode\\":\\"normal\\",\\"version\\":1,\\"style\\":\\"color:rgb(255, 242, 242);font-size:30px\\"\}],\\"version\\":1\}],\\"version\\":1\}\}",\
+                    "bundles": []\
+                \},\
+                "kind": "subscription"\
+            \},\
+            "name": "PBA Tour CH 1",\
+            "navigation_id": "660eaba9f2a0cbbb44b28076",\
+            "regions": \{\
+                "channel-select": \{\
+                    "pages": [\
+                        \{\
+                            "array_id": "PpDQLzBCq",\
+                            "image": "",\
+                            "page": \{\
+                                "_id": "6126faaf8208a8df5f19f80f",\
+                                "seo": \{\
+                                    "image": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/63d5969d82047700a70bf6d3.png",\
+                                    "title": "PBA Tour - Main"\
+                                \},\
+                                "slug": "pba-tour-main"\
+                            \}\
+                        \},\
+                        \{\
+                            "image": "",\
+                            "page": \{\
+                                "_id": "6126f7b97fbf6b0efd6f3aa7",\
+                                "seo": \{\
+                                    "title": "PBA Tour CH 2"\
+                                \},\
+                                "slug": "pba-tour-channel-2"\
+                            \},\
+                            "array_id": "b1Quwpr7ex"\
+                        \},\
+                        \{\
+                            "image": "",\
+                            "page": \{\
+                                "_id": "66cf2af4e21c3787e576ed6d",\
+                                "seo": \{\
+                                    "title": "PBA Tour CH 3"\
+                                \},\
+                                "slug": "pba-tour-channel-3"\
+                            \},\
+                            "array_id": "gXuEnS_JE0"\
+                        \},\
+                        \{\
+                            "image": "",\
+                            "page": \{\
+                                "_id": "66cf2b96e21c3787e576ed6e",\
+                                "seo": \{\
+                                    "title": "PBA Tour CH 4"\
+                                \},\
+                                "slug": "pba-tour-channel-4"\
+                            \},\
+                            "array_id": "dalTegM2ST"\
+                        \},\
+                        \{\
+                            "image": "",\
+                            "page": \{\
+                                "_id": "6297f441edddb198bc94417f",\
+                                "seo": \{\
+                                    "title": "PBA Tour CH 5"\
+                                \},\
+                                "slug": "pba-tour-channel-5"\
+                            \},\
+                            "array_id": "lDOgX9xnMc"\
+                        \},\
+                        \{\
+                            "image": "",\
+                            "page": \{\
+                                "_id": "627f221431862ba53c9d9dcb",\
+                                "seo": \{\
+                                    "title": "PBA Tour CH 6"\
+                                \},\
+                                "slug": "pba-tour-channel-6"\
+                            \},\
+                            "array_id": "V4GRytoTF1"\
+                        \},\
+                        \{\
+                            "image": "",\
+                            "page": \{\
+                                "_id": "641f4766982e35002f8535e8",\
+                                "seo": \{\
+                                    "title": "PBA Tour CH 7"\
+                                \},\
+                                "slug": "pba-tour-channel-7"\
+                            \},\
+                            "array_id": "EM9h8XGY0V"\
+                        \},\
+                        \{\
+                            "image": "",\
+                            "page": \{\
+                                "_id": "66cf33ff0a34c8cfc8f9d150",\
+                                "seo": \{\
+                                    "title": "PBA Tour CH 8"\
+                                \},\
+                                "slug": "pba-tour-channel-8"\
+                            \},\
+                            "array_id": "B25DBQxL4X"\
+                        \},\
+                        \{\
+                            "image": "",\
+                            "page": \{\
+                                "_id": "67802096cc380cb88db089a5",\
+                                "seo": \{\
+                                    "title": "2025 PBA Tour"\
+                                \},\
+                                "slug": "2025-pba-tour"\
+                            \},\
+                            "array_id": "223QukIPU5"\
+                        \}\
+                    ],\
+                    "state": "on"\
+                \},\
+                "footer": \{\
+                    "hashtag": "BowlTV",\
+                    "socials": "EMPTY",\
+                    "sponsors": [\
+                        \{\
+                            "array_id": "44ebe508-e6dd-4dd5-ba68-c6889c18e9bd",\
+                            "image": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/6387e6f6d235ff00a7085ee6.png",\
+                            "link": "https://bowl.com/"\
+                        \},\
+                        \{\
+                            "array_id": "46581957-af72-4dfc-aa44-8572ad2b1d63",\
+                            "image": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/659bfc2af957cb00a74b39ad.png",\
+                            "link": "https://www.pba.com/"\
+                        \}\
+                    ],\
+                    "tweet_message": ""\
+                \},\
+                "header": \{\
+                    "countdown": \{\
+                        "start_time": "Tue Jan 21 2025 09:00:00 GMT-0600 (Central Standard Time)",\
+                        "title": "2025 PBA Delaware Classic- QUalifying round 1"\
+                    \}\
+                \},\
+                "navigation": \{\
+                    "state": "on"\
+                \}\
+            \},\
+            "theme": \{\
+                "classic_theme_options": \{\
+                    "accent_primary": "#6E5FFB",\
+                    "accent_secondary": "#4D42AD"\
+                \},\
+                "id": "63a38bfc0851ef002f07dada",\
+                "type": "custom"\
+            \}\
+        \},\
+        "last_modified": 1737468489948,\
+        "seo": \{\
+            "image": "https://static.gcp.maestro.io/media/5c09513f58dfae005af67a20/63d5969d82047700a70bf6d3.png",\
+            "is_image_same_as_card": true,\
+            "title": "PBA Tour CH 1"\
+        \},\
+        "site_id": "5c09513f58dfae005af67a20",\
+        "slug": "pba-tour-channel-1",\
+        "type": "channel",\
+        "modified": 1737470920270,\
+        "renderers": \{\
+            "livestream": \{\
+                "livestream_published": true,\
+                "stream_id": "6249fa30165ded0027cffc27",\
+                "video_id": "678fb3c8c668aba355473fae",\
+                "source": "thirdPartySoftware"\
+            \},\
+            "sidebar": \{\
+                "items": [\
+                    \{\
+                        "array_id": "EZi6_4v85",\
+                        "id": "62d9b212e8d07c7ba4a8fe7f",\
+                        "is_active": true\
+                    \},\
+                    \{\
+                        "array_id": "lji_xM7Tx",\
+                        "id": "6412491d4691697a7c39f8b1",\
+                        "is_active": true\
+                    \},\
+                    \{\
+                        "array_id": "AcBcwOdC9N",\
+                        "id": "67802b1bd62d1eb3448adcb2",\
+                        "is_active": true\
+                    \},\
+                    \{\
+                        "array_id": "_6gESSklFg",\
+                        "id": "660c034687b310250cbf6618",\
+                        "is_active": true\
+                    \},\
+                    \{\
+                        "array_id": "1hzW9XfdK",\
+                        "id": "63cd6dd1aa8d7520fdbbc03d"\
+                    \},\
+                    \{\
+                        "array_id": "YLTcVVui4",\
+                        "id": "642db261f2b56b8d90c2edc6",\
+                        "is_active": false\
+                    \},\
+                    \{\
+                        "array_id": "XqvvhF2yTo",\
+                        "id": "64bc45c8b0e4ef02a8da22ca",\
+                        "is_active": false\
+                    \},\
+                    \{\
+                        "array_id": "m_ve6yvbm",\
+                        "id": "606d10b1743546f90c9a8a3d",\
+                        "is_active": false\
+                    \},\
+                    \{\
+                        "array_id": "q1ysFzt3nA",\
+                        "id": "660c03479f66c7cb5d86fa28",\
+                        "is_active": false\
+                    \},\
+                    \{\
+                        "array_id": "dDy87JMQd",\
+                        "id": "63b32693ecdbd63fa91e5c01",\
+                        "is_active": true\
+                    \},\
+                    \{\
+                        "array_id": "a5Gw36keYv",\
+                        "id": "6746129c5400529c4618624b",\
+                        "is_active": false\
+                    \}\
+                ]\
+            \}\
+        \},\
+        "tags": [],\
+        "active_renderers": \{\
+            "sidebar": true\
+        \},\
+        "base_language": "en-US",\
+        "creator": "5c250c8c64170800620a9691",\
+        "owner": "5c250c8c64170800620a9691"\
+    \}\
+\}\
+}
